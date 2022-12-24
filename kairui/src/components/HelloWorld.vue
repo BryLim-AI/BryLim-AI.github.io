@@ -16,7 +16,7 @@
       </router-link>
     </div>
     <div>
-      <router-link to="/">
+      <router-link to="/dev">
         <img class="selection-image" src="@/assets/comp.png">
         <p class="sec-links">Developer</p>
       </router-link>
@@ -60,6 +60,31 @@
     <router-link to="/">
       <img class="selection-image" src="@/assets/comp.png">
       <p class="sec-links">Tradings</p>
+    </router-link>
+  </div>
+  <div>
+    <router-link to="/">
+      <img class="selection-image" src="@/assets/comp.png">
+      <p class="sec-links">Online Courses</p>
+    </router-link>
+  </div>
+  <br>
+  <div>
+    <router-link to="/">
+      <img class="selection-image" src="@/assets/comp.png">
+      <p class="sec-links">News</p>
+    </router-link>
+  </div>
+  <div>
+    <router-link to="/">
+      <img class="selection-image" src="@/assets/comp.png">
+      <p class="sec-links">Technologies</p>
+    </router-link>
+  </div>
+  <div>
+    <router-link to="/">
+      <img class="selection-image" src="@/assets/comp.png">
+      <p class="sec-links">Documents</p>
     </router-link>
   </div>
 

@@ -7,20 +7,28 @@
   <router-view/>
   <div class="sideNav">
 
-    <a href="" target="_blank">
+    <a href="https://mail.google.com/mail/" target="_blank">
       <img class="side-icon" src="@/assets/e.png">
     </a>
 
-    <a href="" target="_blank">
+    <a href="https://calendar.google.com/calendar?tab=wc&authuser=0" target="_blank">
       <img class="side-icon" src="@/assets/cal.png">
     </a>
 
-    <a href="" target="_blank">
+    <a href="https://maps.google.com.ph/maps?hl=en&tab=wl&authuser=0" target="_blank">
       <img class="side-icon" src="@/assets/map.png">
     </a>
 
-    <a href="" target="_blank">
+    <a href="https://fanyi.baidu.com/" target="_blank">
       <img class="side-icon" src="@/assets/tras.png">
+    </a>
+
+    <a href="https://www.google.com/" target="_blank">
+      <img src="https://img.icons8.com/color/30/null/google-logo.png">
+    </a>
+
+    <a href="https://www.baidu.com/" target="_blank">
+      <img src="https://img.icons8.com/color/30/null/baidu.png">
     </a>
 
   </div>
