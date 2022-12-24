@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+    background-color: #000000;
+    text-align: center;
+}
+.sec-title{
+    color:#FB2576;
+    font-family: 'VT323', monospace;
+    font-size: 75px;
+}
+.navigation{
+    font-family: 'VT323', monospace;
+    color:#3F0071;
+    font-size: 25px;
+
+}
+.selections div{
+display: inline-block;
+}
+.selection-image{
+    width:100px;
+    height:100px;
+    padding:0px;
+}
+.selection-image:hover{
+     width:110px;
+    height:110px;
+}
+.sec-links{
+    font-family: 'VT323', monospace;
+    text-decoration: none;
+    color:white;
+}
+.select-img{
+    width:70px;
+    height:70px;
+}
+.sec-links img:hover{
+    width:75px;
+    height:75px;
+    
+}
+.sect-sub:hover{
+   border-bottom: 1px solid red;
+}
+.section-selects a{
+    display: inline-block;
+     margin:1%;
+}
+.sideNav{
+    width:3%;
+    top:5%;
+    right:0.4%;
+    position: fixed;
+}
+.sideNav a img:hover{
+    width:33px;
+    height:33px;
+}
+.side-icon{
+    width:30px;
+    height:30px;
+}
